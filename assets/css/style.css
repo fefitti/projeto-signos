@@ -1,0 +1,44 @@
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+}
+
+/* Plano de fundo da página inicial */
+.pagina-inicial {
+    background-image: url('../imgs/logo.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #000;
+}
+
+/* Plano de fundo translúcido dos signos */
+body[class^="signo-"] {
+    background-color: rgba(0, 0, 0, 0.85);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+}
+
+/* Um exemplo para cada signo */
+.signo-áries    { background-image: url('../imgs/aries.png'); }
+.signo-touro    { background-image: url('../imgs/touro.png'); }
+.signo-gêmeos   { background-image: url('../imgs/gemeos.png'); }
+.signo-câncer   { background-image: url('../imgs/cancer.png'); }
+.signo-leão     { background-image: url('../imgs/leao.png'); }
+.signo-virgem   { background-image: url('../imgs/virgem.png'); }
+.signo-libra    { background-image: url('../imgs/libra.png'); }
+.signo-escorpião{ background-image: url('../imgs/escorpiao.png'); }
+.signo-sagitário{ background-image: url('../imgs/sagitario.png'); }
+.signo-capricórnio { background-image: url('../imgs/capricornio.png'); }
+.signo-aquário  { background-image: url('../imgs/aquario.png'); }
+.signo-peixes   { background-image: url('../imgs/peixes.png'); }
+
+h1, p {
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}

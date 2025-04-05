@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <nome>Áries</nome>
+        <data_inicio>21/03</data_inicio>
+        <data_fim>19/04</data_fim>
+        <descricao>Impulsivo, energético, pioneiro e corajoso.</descricao>
+    </signo>
+    <signo>
+        <nome>Touro</nome>
+        <data_inicio>20/04</data_inicio>
+        <data_fim>20/05</data_fim>
+        <descricao>Persistente, confiável, paciente e determinado.</descricao>
+    </signo>
+    <signo>
+        <nome>Gêmeos</nome>
+        <data_inicio>21/05</data_inicio>
+        <data_fim>20/06</data_fim>
+        <descricao>Comunicativo, curioso, versátil e inteligente.</descricao>
+    </signo>
+    <signo>
+        <nome>Câncer</nome>
+        <data_inicio>21/06</data_inicio>
+        <data_fim>22/07</data_fim>
+        <descricao>Emotivo, protetor, sensível e intuitivo.</descricao>
+    </signo>
+    <signo>
+        <nome>Leão</nome>
+        <data_inicio>23/07</data_inicio>
+        <data_fim>22/08</data_fim>
+        <descricao>Líder nato, confiante, entusiástico e criativo.</descricao>
+    </signo>
+    <signo>
+        <nome>Virgem</nome>
+        <data_inicio>23/08</data_inicio>
+        <data_fim>22/09</data_fim>
+        <descricao>Analítico, prático, metódico e perfeccionista.</descricao>
+    </signo>
+    <signo>
+        <nome>Libra</nome>
+        <data_inicio>23/09</data_inicio>
+        <data_fim>22/10</data_fim>
+        <descricao>Diplomático, sociável, equilibrado e elegante.</descricao>
+    </signo>
+    <signo>
+        <nome>Escorpião</nome>
+        <data_inicio>23/10</data_inicio>
+        <data_fim>21/11</data_fim>
+        <descricao>Intenso, misterioso, determinado e apaixonado.</descricao>
+    </signo>
+    <signo>
+        <nome>Sagitário</nome>
+        <data_inicio>22/11</data_inicio>
+        <data_fim>21/12</data_fim>
+        <descricao>Otimista, aventureiro, honesto e filosófico.</descricao>
+    </signo>
+    <signo>
+        <nome>Capricórnio</nome>
+        <data_inicio>22/12</data_inicio>
+        <data_fim>19/01</data_fim>
+        <descricao>Disciplinado, responsável, ambicioso e prático.</descricao>
+    </signo>
+    <signo>
+        <nome>Aquário</nome>
+        <data_inicio>20/01</data_inicio>
+        <data_fim>18/02</data_fim>
+        <descricao>Inovador, independente, idealista e original.</descricao>
+    </signo>
+    <signo>
+        <nome>Peixes</nome>
+        <data_inicio>19/02</data_inicio>
+        <data_fim>20/03</data_fim>
+        <descricao>Sensível, intuitivo, altruísta e sonhador.</descricao>
+    </signo>
+</signos>
