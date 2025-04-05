@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🌟 Projeto Signos - Aula Prática de Programação Web
 
 Este projeto tem como objetivo identificar o signo do usuário com base na data de nascimento informada. A aplicação foi desenvolvida em PHP utilizando XML para armazenar os dados dos signos, com estilização em CSS e estrutura organizada para visualização em ambiente web com XAMPP.
