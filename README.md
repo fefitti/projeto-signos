@@ -17,21 +17,7 @@ Este projeto tem como objetivo identificar o signo do usuário com base na data 
 ---
 
 ## 🧩 Estrutura do Projeto
-Project/
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── imgs/
-│   │   ├── logo.png
-│   │   ├── aries.png
-│   │   ├── touro.png
-│   │   ├── gemeos.png
-│   │   └── ... (outros signos)
-├── layouts/
-│   └── header.php
-├── index.php
-├── show_zodiac_sign.php
-└── signos.xml
+```Project/ ├── assets/ │ ├── css/ │ │ └── style.css │ ├── imgs/ │ │ ├── logo.png │ │ ├── aries.png │ │ ├── touro.png │ │ ├── gemeos.png │ │ └── ... (demais signos) ├── layouts/ │ └── header.php ├── index.php ├── show_zodiac_sign.php └── signos.xml```
 ---
 
 ## 📄 Descrição dos Arquivos
